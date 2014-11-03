@@ -1,0 +1,13 @@
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\bin\Debug\KinectPong.exe.config
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.csprojResolveAssemblyReference.cache
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\MainWindow.baml
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\MainWindow.g.cs
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\App.g.cs
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong_MarkupCompile.cache
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.g.resources
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.Properties.Resources.resources
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.csproj.GenerateResource.Cache
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\bin\Debug\KinectPong.exe
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\bin\Debug\KinectPong.pdb
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.exe
+c:\users\joaquin\documents\visual studio 2012\Projects\KinectPong\KinectPong\obj\Debug\KinectPong.pdb
